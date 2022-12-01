@@ -1,0 +1,26 @@
+.container {
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 1340px;
+    /*height: 600px;*/
+    /*background-color: #c1daff;*/
+    padding-top: 10px;
+    background-color: white;
+    font-family: "Noah Text", sans-serif;
+}
+
+.navigation {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.navigation span {
+    display: block;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: black;
+}
+
